@@ -5,3 +5,4 @@ sql
 psycopg2-binary
 python-binance
 pymysql 
+mysql-connector-python
