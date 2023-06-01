@@ -1,1 +1,7 @@
-
+pip
+streamlit
+pandas
+sql
+psycopg2-binary
+python-binance
+pymysql 
